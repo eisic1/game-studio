@@ -6,7 +6,7 @@ import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
 
 object AccountGamesRepository {
-    private var hash: String = "c009b3a3-8a7a-4e17-a3ed-31f034ade978"
+    private var hash: String = ""
     private var ageUser: Int? = null
     private val api = AccountApiConfig.retrofit
 
