@@ -11,7 +11,7 @@ import okhttp3.RequestBody
 import java.lang.Exception
 
 object GameReviewsRepository {
-    private var hash: String = "c009b3a3-8a7a-4e17-a3ed-31f034ade978"
+    private var hash: String = ""
     private val api = AccountApiConfig.retrofit
 
     suspend fun getOfflineReviews(context: Context):List<GameReview>{
