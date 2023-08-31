@@ -3,7 +3,9 @@
 ```
 Kotlin was used as the programming language to create the application.
 This app shows latest games, favorite games, game details, allows sorting and
-allows searching games through TMDB API and adding them to favorites.
+allows searching games through IGDB API and adding them to favorites.
 
 Also, the application is connected to use the database. For this purpose, the Room Library is used.
+
+The application was created in the period from March 2023 to July 2023.
 ```
