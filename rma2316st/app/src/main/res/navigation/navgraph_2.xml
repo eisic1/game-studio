@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/navgraph_2"
+    app:startDestination="@id/homeFragment2">
+
+    <fragment
+        android:id="@+id/homeFragment2"
+        android:name="ba.etf.rma23.view.HomeFragment"
+        android:label="HomeFragment" />
+    <fragment
+        android:id="@+id/gameDetailsFragment2"
+        android:name="ba.etf.rma23.view.GameDetailsFragment"
+        android:label="GameDetailsFragment" />
+</navigation>
