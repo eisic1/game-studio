@@ -9,3 +9,8 @@ Also, the application is connected to use the database. For this purpose, the Ro
 
 The application was created in the period from March 2023 to July 2023.
 ```
+
+## Run app
+```
+You need to run the application using Android Studio, and run the application using an android emulator or your own device.
+```
